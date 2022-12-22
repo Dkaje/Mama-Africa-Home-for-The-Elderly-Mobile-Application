@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Mama Africa Homecare</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="receipt_text">Mama Africa Homecare \n Doctors appointments receipt</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_staff_profile">StaffProfile</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="aboutus">
+
+       <big><b> ABOUT</b></big>
+\n
+\n
+
+Mama Africa home for the elderly is a nursing home that offers home-based care to elderly persons in the community.
+        \n
+        \n
+ It was founded in 2017 by Irene Gakii, their main goal is to take care of the elderly persons.
+We are located in Meru, Nakuru (Nakuru Town along Kabarak road next to Nakuru prisons), and Karatina.
+        \n
+        \n
+
+You can Contact us through:
+        \n
+Email: mamafrica@gmail.com
+        \n
+Facebook: Mama-Africa-Home-For-The-Elderly
+        \n
+Phone: 0718909162
+        \n
+: 0722145838
+        \n
+
+    </string>
+
+    <string name="help">
+      <big><b>  HELP</b></big>
+\n
+\n
+        <big><b>HOW TO SIGN UP AND LOGIN</b></big>
+        \n
+<big><b>●	</b></big>Click to register screen in the home screen
+          \n
+<big><b>●</b></big>	Enter your personal details according to fields and click register button
+          \n
+<big><b>●	</b></big>Once your account has been approved by the admin, you will be able to login into your user dashboard.
+  \n
+<big><b>ADDING AN ELDER</b></big>
+          \n
+How to add an elder
+          \n
+<big><b>●</b></big>	The family member is the one responsible to add an elder he/she wants to be admitted.
+        He must enter details needed in the add elder screen.
+  \n
+        <big><b>●</b></big>	Once the Home supervisor has approved the elder and he/she is admitted,
+        the family member will see the caregiver allocated to the elder
+
+        </string>
+
+
+</resources>

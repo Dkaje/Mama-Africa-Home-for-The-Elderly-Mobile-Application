@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/drawable/edittext_background.xml" value="0.21574074074074073" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout-w1240dp/activity_staff_profile.xml" value="0.13386880856760375" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout-w1240dp/layout_donors.xml" value="0.13386880856760375" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout-w1240dp/layout_drug_issue.xml" value="0.13386880856760375" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout-w1240dp/layout_issue.xml" value="0.13386880856760375" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout-w936dp/activity_staff_profile.xml" value="0.15625" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout-w936dp/layout_donation_list.xml" value="0.15625" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout-w936dp/view_item_cart.xml" value="0.15625" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_about.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_add_elder.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_admitted_elders.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_appointment_details.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_appointment_history.xml" value="0.19427083333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_appointments.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_assign.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_assigned_elders.xml" value="0.10131712259371833" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_booking_dashboard.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_booking_details.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_bookings.xml" value="0.10131712259371833" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_care_giver_assigned.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_collected_drugs.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_dashboard.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_doctor.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_doctors.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_donations.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_donor_register.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_drugs.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_drugs_dashbboard.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_drugs_pending.xml" value="0.10131712259371833" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_elder_details.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_elders.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_elders_approved.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_elders_pending_approval.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_feed.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_feedback.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_help.xml" value="0.19427083333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_hospital_appointments.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_hospital_details.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_issue.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_item_stock.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_items_donated.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_items_list.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_items_model.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_lab_test.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_login.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_main.xml" value="0.12545289855072464" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_make_donation.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_more_details.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_more_info.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_new_donations.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_order_items.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_order_request.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_order_request_model.xml" value="0.19427083333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_pending_drugs.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_pharm_dahboard.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_profile.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_register.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_register_suppliers.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_reply_feedback.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_request_dashboard.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_request_details.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_request_drugs.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_request_elder.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_request_form.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_requests.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_rest_password.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_select_care_giver.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_select_register.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_send_report.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_send_results.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_sent_to_lab.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_staff_profile.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_store_dashboard.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_supplier_dashboard.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_suppliers.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_supplies.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_tech_dashboard.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_test.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_test_results.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/activity_write_report.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/app_bar_main.xml" value="0.12545289855072464" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/content_main.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_added_elders.xml" value="0.10131712259371833" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_appointments.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_assiged.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_assined_care_giver.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_basket.xml" value="0.19427083333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_bookings.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_care_giver.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_doctor.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_donation_lists.xml" value="0.19427083333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_donations.xml" value="0.19427083333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_drugs.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_elder.xml" value="0.19427083333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_feed.xml" value="0.13134057971014493" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_feedback.xml" value="0.19427083333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_issue_drugs.xml" value="0.19427083333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_issued_drugs.xml" value="0.19427083333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_items.xml" value="0.10131712259371833" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_lab_test.xml" value="0.10131712259371833" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_orders.xml" value="0.19427083333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_requests.xml" value="0.19427083333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_stock.xml" value="0.19427083333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/layout_suppliers.xml" value="0.19427083333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/nav_header_main.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/prompt_doc.xml" value="0.10131712259371833" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/view_cart.xml" value="0.20833333333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/layout/view_item_cart.xml" value="0.19427083333333334" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/menu/activity_main_drawer.xml" value="0.19591836734693877" />
+        <entry key="..\:/hustle_free/MamaAfricaHomecare/app/src/main/res/menu/search_bar.xml" value="0.20833333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

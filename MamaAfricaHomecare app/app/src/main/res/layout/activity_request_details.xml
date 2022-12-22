@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RequestDetails">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txv_requestID"
+        android:text="ID"
+        android:textStyle="bold"
+        android:layout_marginLeft="25dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txv_name"
+        android:text="name"
+        android:textStyle="bold"
+        android:layout_marginLeft="25dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txv_gender"
+        android:text="Gender"
+        android:textStyle="bold"
+        android:layout_marginLeft="25dp"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txv_requestDate"
+            android:text="Added date"
+            android:textStyle="bold"
+            android:layout_marginLeft="25dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txv_status"
+            android:text="Status"
+            android:textStyle="bold"
+            android:layout_marginLeft="25dp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2sp"
+            android:layout_margin="5dp"
+            android:background="@color/buttonColor"/>
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/recyclerView"/>
+        <ProgressBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/progressBar"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/btn_approve"
+            android:text="Issued"
+            android:layout_margin="25dp"
+            android:backgroundTint="@color/buttonColor"/>
+    </LinearLayout>
+
+
+</androidx.core.widget.NestedScrollView>

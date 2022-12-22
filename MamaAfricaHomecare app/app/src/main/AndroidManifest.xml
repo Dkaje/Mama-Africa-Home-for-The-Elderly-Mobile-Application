@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mamaafricahomecare">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MamaAfricaHomecare"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".Member.RequestElder"
+            android:exported="false" />
+        <activity
+            android:name=".RestPassword"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.CareGiver.Feed"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.CareGiver.ReplyFeedback"
+            android:exported="false" />
+        <activity
+            android:name=".Member.SelectCareGiver"
+            android:exported="false" />
+        <activity
+            android:name=".Member.Feedback"
+            android:exported="false" />
+        <activity
+            android:name=".Supplier.SupplierDashboard"
+            android:exported="false" />
+        <activity
+            android:name=".Supplier.DrugsSuppliesOrdered"
+            android:exported="false" />
+        <activity
+            android:name=".OrderItems"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.StoreManager.OrderRequest"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.StoreManager.Suppliers"
+            android:exported="false" />
+        <activity
+            android:name=".DrugsDashbboard"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.StoreManager.Drugs"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.StoreManager.RequestDrugs"
+            android:exported="false" />
+        <activity
+            android:name=".Supplier.RegisterSuppliers"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Doctors.WriteReport"
+            android:exported="false" />
+        <activity
+            android:name=".RequestDetails"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.CareGiver.Requests"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.CareGiver.RequestDashboard"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.CareGiver.RequestForm"
+            android:exported="false" />
+        <activity
+            android:name=".Member.HospitalDetails"
+            android:exported="false" />
+        <activity
+            android:name=".Member.HospitalAppointments"
+            android:exported="false" />
+        <activity
+            android:name=".Member.MoreInfo"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.StoreManager.ItemStock"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.StoreManager.StoreDashboard"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.StoreManager.ItemsList"
+            android:exported="false" />
+        <activity
+            android:name=".Help"
+            android:exported="false" />
+        <activity
+            android:name=".About"
+            android:exported="false" />
+        <activity
+            android:name=".Donors.ItemsDonated"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.StoreManager.NewDonations"
+            android:exported="false" />
+        <activity
+            android:name=".Donors.Donations"
+            android:exported="false" />
+        <activity
+            android:name=".Donors.MakeDonation"
+            android:exported="false" />
+        <activity
+            android:name=".Donors.DonorRegister"
+            android:exported="false" />
+        <activity
+            android:name=".SelectRegister"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Pharmacist.Issue"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Pharmacist.PharmDahboard"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Pharmacist.PendingDrugs"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Pharmacist.DrugsDashboard"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Pharmacist.CollectedDrugs"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Doctors.AppointmentHistory"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Doctors.SendReport"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.LabTech.SendResults"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.LabTech.Test"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.LabTech.TechDashboard"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Doctors.TestResults"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Doctors.LabTest"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Doctors.SentToLab"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Doctors.BookingDetails"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Doctors.BookingDashboard"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Doctors.Bookings"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.CareGiver.AppointmentDetails"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.CareGiver.Appointments"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.CareGiver.Doctors"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.CareGiver.MoreDetails"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.CareGiver.AssignedElders"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Supervisor.CareGiverAssigned"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Supervisor.AdmittedElders"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Supervisor.Assign"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Supervisor.EldersApproved"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Supervisor.ElderDetails"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.Supervisor.EldersPendingApproval"
+            android:exported="false" />
+        <activity
+            android:name=".Staff.ProfileStaff"
+            android:exported="false" />
+        <activity
+            android:name=".ui.login.StaffProfile"
+            android:exported="false"
+            android:label="@string/title_activity_staff_profile" />
+        <activity
+            android:name=".Member.Elders"
+            android:exported="false" />
+        <activity
+            android:name=".Member.AddElder"
+            android:exported="false" />
+        <activity
+            android:name=".Member.Profile"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.MamaAfricaHomecare.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

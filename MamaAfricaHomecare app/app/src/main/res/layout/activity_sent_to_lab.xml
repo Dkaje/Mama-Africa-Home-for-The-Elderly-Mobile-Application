@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Staff.Doctors.SentToLab">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Name"
+        android:id="@+id/txv_name"
+        android:layout_marginTop="75sp"
+        android:textSize="18dp"/>
+
+
+
+        <EditText
+            android:id="@+id/edt_details"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:background="@drawable/edittext_background"
+            android:gravity="top|left"
+            android:lines="4"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:hint="Test details"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black" />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_sendToLab"
+        android:backgroundTint="@color/buttonColor"
+        android:text="Submit"
+        android:layout_margin="25dp"/>
+    <ProgressBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/progressBar"/>
+
+
+
+</LinearLayout>

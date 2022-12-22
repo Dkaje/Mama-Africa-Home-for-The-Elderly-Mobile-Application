@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DrugsDashbboard">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_margin="25dp">
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Drugs"
+                android:layout_marginTop="25dp"
+                android:backgroundTint="@color/buttonColor"
+                android:id="@+id/btn_drugs"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Pending approval"
+                android:layout_marginTop="25dp"
+                android:backgroundTint="@color/buttonColor"
+                android:id="@+id/btn_pending"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Approved"
+                android:backgroundTint="@color/buttonColor"
+                android:id="@+id/btn_approved"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Delivered"
+                android:backgroundTint="@color/buttonColor"
+                android:id="@+id/btn_delivered"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Stock in"
+                android:backgroundTint="@color/buttonColor"
+                android:id="@+id/btn_stock_in"/>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

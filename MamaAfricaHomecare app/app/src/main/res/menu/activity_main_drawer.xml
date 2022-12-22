@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_about"
+            android:title="About" />
+        <item
+            android:id="@+id/nav_profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_orders"
+            android:title="Orders" />
+        <item
+            android:id="@+id/nav_add_elder"
+            android:title="Add elder" />
+        <item
+            android:id="@+id/nav_elder"
+            android:title="Elder" />
+        <item
+            android:id="@+id/nav_elder_pending"
+            android:title="Elder pending approval" />
+        <item
+            android:id="@+id/nav_elder_approved"
+            android:title="Approved elders" />
+        <item
+            android:id="@+id/nav_elder_admitted"
+            android:title="Admitted elders" />
+        <item
+            android:id="@+id/nav_assigned"
+            android:title="Assigned elders" />
+        <item
+            android:id="@+id/nav_appointments"
+            android:title="Appointments" />
+        <item
+            android:id="@+id/nav_items_request"
+            android:title="Items request" />
+        <item
+            android:id="@+id/nav_drugs"
+            android:title="Drugs" />
+        <item
+            android:id="@+id/nav_lab_test"
+            android:title="Lab test" />
+        <item
+            android:id="@+id/nav_pharm"
+            android:title="Pharmacist" />
+        <item
+            android:id="@+id/nav_make_donation"
+            android:title="Make donation" />
+
+        <item
+            android:id="@+id/nav_donations"
+            android:title="Donations" />
+        <item
+            android:id="@+id/nav_register"
+            android:title="Register" />
+        <item
+            android:id="@+id/nav_login"
+            android:title="Login" />
+        <item
+            android:id="@+id/nav_help"
+            android:title="Help" />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Logout now" />
+    </group>
+</menu>

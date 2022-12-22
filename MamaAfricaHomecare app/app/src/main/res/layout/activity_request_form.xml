@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Staff.CareGiver.RequestForm">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Request items"
+            android:id="@+id/txv_text"
+            android:layout_marginTop="5dp"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_marginTop="5dp"
+            android:id="@+id/input_itemName"
+            android:layout_below="@+id/txv_text"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            app:boxBackgroundColor="@android:color/transparent"
+            android:background="@android:color/transparent">
+
+            <EditText
+                android:id="@+id/edt_itemName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Item"
+                android:inputType="textCapSentences|textPersonName"
+                android:textColor="@android:color/black"
+                android:textSize="16sp" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_marginTop="5dp"
+            android:id="@+id/input_quantity"
+            android:layout_below="@+id/input_itemName"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            app:boxBackgroundColor="@android:color/transparent"
+            android:background="@android:color/transparent">
+            <EditText
+                android:id="@+id/edt_quantity"
+                android:hint="Quantity"
+                android:textSize="16sp"
+                android:inputType="number"
+                android:textColor="@android:color/black"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_margin="15dp"
+            android:background="@drawable/edittext_background"
+            android:textColorHint="@color/black"
+            android:lines="4"
+            android:textColor="@color/black"
+            android:id="@+id/edt_detail"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:gravity="top|left"
+            android:layout_below="@id/input_quantity"
+            android:hint="Request detail"/>
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/btn_add"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:id="@+id/btn_add"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/edt_detail"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:backgroundTint="@color/buttonColor"
+            android:text="Add" />
+
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/btn_add"
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="75sp" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/recyclerView"
+            android:id="@+id/layout_bottom"
+            android:orientation="vertical">
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btn_submit"
+                android:backgroundTint="@color/buttonColor"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="Submit" />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</androidx.core.widget.NestedScrollView>

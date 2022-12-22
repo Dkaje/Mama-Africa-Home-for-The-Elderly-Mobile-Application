@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:id="@+id/txv_name"
+        android:text="Dr"
+        android:background="@color/buttonColor"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:padding="15dp"/>
+    <EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="15dp"
+    android:textColor="@color/black"
+    android:textColorHint="@color/black"
+    android:padding="10dp"
+        android:id="@+id/edt_date"
+    android:background="@drawable/edittext_background"
+    android:hint="Appointment date"/>
+
+    <EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+    android:layout_margin="15dp"
+    android:background="@drawable/edittext_background"
+    android:textColorHint="@color/black"
+    android:lines="4"
+        android:textColor="@color/black"
+    android:id="@+id/edt_details"
+    android:paddingLeft="10dp"
+    android:paddingTop="10dp"
+    android:gravity="top|left"
+    android:hint="Appointment details"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_book"
+        android:text="Book now"
+        android:layout_margin="15sp"
+        android:backgroundTint="@color/buttonColor"/>
+</LinearLayout>
